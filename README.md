@@ -1,6 +1,6 @@
 # sql-challenge
 
-## Instructions for use: \
+## Instructions for use: 
     Run the code in the file "EmployeeSQL/code_and_query/table_creation.sql" in PGAdmin.  \
     Once the tables are created, you are going to import the data to the tables from the CSV files.  \
     You need to do so in the following order:  \
